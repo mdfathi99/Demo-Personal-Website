@@ -1,0 +1,125 @@
+head{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-weight: 400;
+    font-size: 50px;
+}
+.textHighlight{
+    font-weight: 650;
+    font-size: 60px;
+    color: #ec4c7a;
+}
+p{
+    color: rgb(53, 51, 51);
+    font-size: 20px;
+    padding-bottom: 50px;
+}
+.halfWidth{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2% 0% 2% 2%;
+    margin-top: 150px;
+}
+#profileimage{
+    width: 40%;
+    float: left;
+    padding: 2%;
+}
+#profileimage img{
+    width: 100%;
+}
+.Button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, #ec4c7a, #fc0047);
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 700;
+    color: #fff;
+}
+.header{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    height: 1073px;
+}
+section{
+    padding-bottom: 0px;
+}
+.peter_dream{
+    float: left;
+    width: 34%;
+    padding: 2%;
+    margin-left: 5%;
+}
+.peter-dream img{
+    size: 70%;
+}
+.biography{
+    background-repeat: no-repeat;
+    background-image: url(images/biography-bg.png);
+    height: 875px;
+}
+#latest-workText{
+    text-align: center;
+    padding-top: 70px;
+}
+.latest-work img{
+    float: left;
+    width: 25%;
+    padding: 2%;
+    padding-left: 5%;
+    margin-top: 140px;
+}
+.latest-workBG{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    height: 900px;
+}
+.footerAreaHeight{
+    padding-top: 150px;
+}
+.footer-areaText{
+    text-align: center;
+    margin-bottom: 100px;
+}
+.footer-areaText h5{
+    margin-top: -10px;
+    color: rgb(95, 94, 94);
+    padding-bottom: 50px;
+}
+h4{
+    margin-top: 100px;
+}
+.email{
+    text-align: center;
+    background-image: linear-gradient(90deg, #e63f6e, #f05682);
+    padding: 10px 20px;
+    border-radius: 15px;
+    margin: auto;
+    width: 800px;
+    height: 200px;
+}
+.email p{
+    color: #fff;
+    font-size: 17px;
+    padding-bottom: 0px;
+    padding-top: 20px;
+}
+.email a{
+    text-decoration: none;
+    color: #fff;
+    padding-top: 20px;
+}
+.email h3{
+    font-size: 30px;
+    font-weight: 520;
+}
+.footer-area{
+    background-repeat: no-repeat;
+    background-image: url(images/footer-bg.png);
+    height: 950px;
+}
+footer{
+    text-align: center;
+}
